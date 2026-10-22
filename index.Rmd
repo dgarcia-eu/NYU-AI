@@ -1,7 +1,7 @@
 ---
 title: "Generative Agent-Based Modelling and <br> Collective Behavior of AI Agents"
 author: "David Garcia <br> *University of Konstanz <br>  also at: Barcelona Supercomputing Center <br>  Complexity Science Hub Vienna*"
-date: "NYU, 2026"
+date: "NYU, 2026. Slides: www.dgarcia.eu/nyu-ai"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
